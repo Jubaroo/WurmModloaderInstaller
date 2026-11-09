@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="payload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/payload/modlauncher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/payload/patcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/payload/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
